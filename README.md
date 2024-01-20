@@ -13,3 +13,7 @@ shutil.copy(csv_filepath, rejected_filepath)
 #move the rejected file to rejected folder
 shutil.move(csv_filepath, rejected_filepath)
 ```
+
+#### How to run the script to perform ETL
+Just execute main.py script
+

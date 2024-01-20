@@ -1,6 +1,6 @@
 # NamasteKart-NamasterPyton-Project
 
-#### This is a project demonstration of an ETL process in python
+#### This is a project that demonstrate an ETL process in python
 
 Note - Default behavior is to copy files from the incoming_files folder to the success_files and rejected_files folder based on business logic but this can be changed to moving files from source to destination by making minor changes to the code
 

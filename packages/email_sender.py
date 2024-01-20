@@ -6,7 +6,10 @@ def send_validation_email(total_files, successful_files, rejected_files):
     smtp_server = 'smtp.gmail.com'
     smtp_port = 587
     smtp_username = 'kj.python.learning@gmail.com'
-    smtp_password = 'yzjh nraf kfky ucdc'  
+
+    #Will disable this password(gamil 2factor authentication) after project evaluation
+    #If I comment out this password the entire script will fail
+    smtp_password = 'yzjh nraf kfky ucdc'
 
     business_email = 'kaushaljoshi100@gmail.com'
 

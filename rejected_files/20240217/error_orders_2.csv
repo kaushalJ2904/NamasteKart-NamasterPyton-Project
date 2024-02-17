@@ -1,0 +1,5 @@
+order_id,order_date,product_id,quantity,sales,city,reasons
+12,2024-01-20,200,2,9000,Delhi,Invalid location
+14,2024-01-22,600,3,45000,Bangalore,Product ID not found in product master
+15,2024-01-22,,3,30000,Bangalore,Product ID not found in product master; Empty field 'product_id'
+16,2024-01-22,400,2,,Mumbai,Invalid quantity or sales value; Empty field 'sales'

@@ -1,0 +1,4 @@
+order_id,order_date,product_id,quantity,sales,city,reasons
+22,,200,2,9000,Mumbai,Order date is missing or invalid; Empty field 'order_date'
+23,2024-01-20,300,1,10000,Kolkata,Invalid location
+28,2024-01-21,750,1,10000,Pune,Product ID not found in product master; Invalid location
